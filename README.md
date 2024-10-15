@@ -60,7 +60,7 @@ ft_transcendence is a full-stack web application built for the 42 programming sc
 
 1. Clone the repository:
 	```bash
-	git clone https://github.com/your_username/ft_transcendence.git
+	git clone https://github.com/gkrusta/ft_transcendence.git
 	cd ft_transcendence
 	```
 
@@ -128,7 +128,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Collaborators
 
-- [Gabriela Krusta](https://github.com/gkrusta)
+- [Pablo Lucena](https://github.com/Palucena)
 - [Davyd Bredykhin](https://github.com/BredyByte)
 - [Enrique Algar Ceular](https://github.com/ealgar-c)
 - [Pablo Vilchez Rodriguez](https://github.com/pablovilchez)
